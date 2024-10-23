@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1. Langage de programmation :: 420-SN1-RE</title>
+    <link>https://example.org/bases/langage-de-prog/index.html</link>
+    <description>Base - Langage de programmation</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/bases/langage-de-prog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Formatage des chaines</title>
+      <link>https://example.org/bases/langage-de-prog/chaines-caracteres/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/bases/langage-de-prog/chaines-caracteres/index.html</guid>
+      <description>La méthode str.format() nom = &#34;Philippe&#34; age = 30 print(&#34;Je m&#39;appelle {} et j&#39;ai {} ans.&#34;.format(nom, age)) Explication:&#xA;{} est un espace réservé pour une valeur qui sera insérée dans la chaîne de caractères. La méthode format(nom, age) remplace les accolades {} par les valeurs des variables nom et age respectivement. Donc, lorsque ce code est exécuté, il affiche :</description>
+    </item>
+    <item>
+      <title>Les bibliothèques de bioinformatique</title>
+      <link>https://example.org/bases/langage-de-prog/biopython/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/bases/langage-de-prog/biopython/index.html</guid>
+      <description>Cette section vous permettra d’apprendre la base des bibliothèques Python de Biopython et de commencer à l’utiliser. Voici les sujets présentés:&#xA;Chapitre 1 : Introduction à Biopython Présentation de Biopython Installation et configuration Aperçu des fonctionnalités principales Chapitre 2 : Manipulation de séquences Lecture et écriture de séquences Opérations de base sur les séquences (traduction, transcription, complémentarité) Alignement de séquences Chapitre 3 : Analyse de séquences Recherche de motifs Calcul des propriétés des séquences (GC content, poids moléculaire) Utilisation des outils d’alignement (BLAST, ClustalW) Chapitre 4 : Structures de données biologiques Introduction aux objets SeqRecord et SeqFeature Annotation de séquences Manipulation des fichiers GenBank et FASTA Chapitre 5 : Accès aux bases de données biologiques Utilisation de Bio.Entrez pour accéder à NCBI Téléchargement et analyse de données génomiques Utilisation de Bio.ExPASy pour accéder aux bases de données protéiques Chapitre 6 : Visualisation de données biologiques Création de graphiques avec Matplotlib et Biopython Visualisation des alignements de séquences Visualisation des structures 3D des protéines</description>
+    </item>
+    <item>
+      <title>Techniques de débogage</title>
+      <link>https://example.org/bases/langage-de-prog/debogage/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/bases/langage-de-prog/debogage/index.html</guid>
+      <description>L’importance de savoir déboguer Le code que nous écrivons ne fonctionne pas toujours comme prévu et peut parfois produire des résultats inattendus.&#xA;Lorsqu’un problème survient, il est plus efficace d’utiliser un outil de débogage plutôt que de rester perplexe devant le code.&#xA;Un débogueur permet d’exécuter le code pas à pas pour identifier précisément où se trouve l’erreur et comprendre les corrections nécessaires.</description>
+    </item>
+    <item>
+      <title>Erreurs communes</title>
+      <link>https://example.org/bases/langage-de-prog/erreurs/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/bases/langage-de-prog/erreurs/index.html</guid>
+      <description>Au fil des semaines nous aurons l’occasion de localiser et de corriger différentes erreurs (ou bogues). Dans cette section “Erreurs et débogage”, vous trouverez des techniques qui permettent de déboguer vos programmes.&#xA;La méthode Print et le débogage Une erreur de syntaxe signifie que le code n’est pas conforme aux règles de syntaxe du langage. Cela est habituellement détecté immédiatement.</description>
+    </item>
+    <item>
+      <title>Les fonctions récursives</title>
+      <link>https://example.org/bases/langage-de-prog/fonction-recursive/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/bases/langage-de-prog/fonction-recursive/index.html</guid>
+      <description>Qu’est-ce qu’une fonction récursive ? Une fonction récursive est une fonction qui s’appelle elle-même. Pour qu’une fonction récursive fonctionne correctement, elle doit avoir deux éléments essentiels :&#xA;Un cas de base : Une condition qui arrête la récursion. Un appel récursif : La fonction s’appelle elle-même avec des arguments modifiés. Exemple simple : La factorielle d’un nombre Calculer la factorielle d’un nombre est un exemple classique de récursion. La factorielle de n (notée n!) est le produit de tous les entiers de 1 à n.</description>
+    </item>
+    <item>
+      <title>Les listes de listes</title>
+      <link>https://example.org/bases/langage-de-prog/listes-de-listes/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/bases/langage-de-prog/listes-de-listes/index.html</guid>
+      <description>Les listes dans les listes Une liste peut comporter tout type d’élément. Nous pouvons donc mettre des listes dans des listes. Nous parlons alors de listes (ou tableaux) à 2 dimensions.&#xA;# Liste contenant 3 éléments # Chaque élément est une liste contenant 2 nombres matrice = [[1, 2], [3, 4], [5, 6]] Pour parcourir toutes les listes, il suffit de mettre une boucle dans une boucle :</description>
+    </item>
+    <item>
+      <title>Match Case</title>
+      <link>https://example.org/bases/langage-de-prog/match-case/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/bases/langage-de-prog/match-case/index.html</guid>
+      <description>L’instruction MATCH-CASE L’instruction match-case est inspirée des structures de correspondance de motifs (switch-case) présentes dans d’autres langages de programmation. Elle permet généralement de simplifier le traitement de différentes conditions en rendant le code plus lisible et plus structuré. Syntaxe de base Astuce La syntaxe de l’instruction match-case est similaire à celle d’une série de conditions if-elif-else, mais elle est souvent plus concise et expressive.</description>
+    </item>
+    <item>
+      <title>Pandas (intermédiaire-avancé)</title>
+      <link>https://example.org/bases/langage-de-prog/pandas/pandas/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/bases/langage-de-prog/pandas/pandas/index.html</guid>
+      <description>Qu’est-ce que pandas? Pandas est une bibliothèque Python utilisée pour la manipulation et l’analyse de données. Elle est particulièrement utile pour traiter de grandes quantités de données expérimentales.&#xA;Ce cours couvre les concepts de base de Pandas, en mettant l’accent sur les applications pratiques dans les sciences.&#xA;Installation de Pandas Avant de commencer, assurez vous d’avoir Pandas installé. Vous pouvez l’installer via pip :</description>
+    </item>
+  </channel>
+</rss>

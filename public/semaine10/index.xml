@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>10. EXAMEN :: 420-SN1-RE</title>
+    <link>https://example.org/semaine10/index.html</link>
+    <description>Objectifs :&#xA;Évaluer les apprentissages des 9 premières semaines. Contenu :&#xA;La base de Python (variables, types de données, structures de contrôle, listes) L’utilisation des bibliothèques scientifiques</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/semaine10/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
